@@ -1,4 +1,5 @@
 """
+	@author: reroes
     Simula un paquete de variables
 """
 

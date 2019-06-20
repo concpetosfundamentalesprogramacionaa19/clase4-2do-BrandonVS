@@ -5,10 +5,9 @@
 
 lista = ("Loja", "Cuenca")
 
-
+# No se puede modificar: Tupla
 for l in lista:
     print(l)
 
-# lista[0] = "Quito"
-
+lista[0] = "Quito"
 

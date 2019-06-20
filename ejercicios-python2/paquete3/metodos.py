@@ -1,4 +1,5 @@
 """
+	@author: reroes
     Simula paquete de métodos
 """
 import math
